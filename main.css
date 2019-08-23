@@ -1,3 +1,30 @@
 body{
     background-color: pink;
 }
+
+.products{
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid;
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 5px 10px;
+    display:inline-block;
+    justify-content: space-evenly;
+    
+}
+
+.productImage{
+    flex: 0, 0, 33.3%;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    margin:10px;
+    align-items: 50%;
+    display: block;
+    margin: auto;
+}
+
+.title{
+    text-align: center;
+}
