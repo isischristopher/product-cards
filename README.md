@@ -1,4 +1,4 @@
-# product-cards
+# Auset Boutique
 
 ## Description
 Use the application to display a grid containing a company's available products and each product's description and price.   
